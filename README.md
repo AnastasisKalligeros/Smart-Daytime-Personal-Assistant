@@ -2,7 +2,7 @@
 
 A group project that was developed as a university assignment for the subject "Human Computer Interaction".  </br>
 
-The application was implemented in Visual C# visual-parallel programming language and as a development tool Visual Studio was chosen as the application's development tool. The application analysis and design manual and the user manual are also available. 
+The application was implemented in Visual C# visual-parallel programming language and as a development tool Visual Studio was chosen. The application analysis and design manual and the user manual are also available. 
 The functionality of the application is divided into four subcategories which are: 
 Simulated interaction with the smart assistant app for the "plan" of the day, simulated interaction with electrical appliances and the smart shoe box of the residents' home, simulated interaction with an automatic pet "feeder" 
 and the general simulation of the user interface system. Finally, for the beautification of our work we used a graphical user interface or GUI.  </br> </br>
