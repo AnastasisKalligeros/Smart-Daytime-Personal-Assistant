@@ -15,37 +15,45 @@ and the general simulation of the user interface system. Finally, for the beauti
 
 • <b>Login Form:</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/4eb7478a-75a4-4c49-8cdb-be48ac065c70) </br> </br>
+![image](https://github.com/user-attachments/assets/9514314a-c4a2-4101-998d-950767d9b604)
+</br> </br>
 
 • <b>Main Screen:</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/abacf69e-6bc0-4a91-852c-4d4e843b4006) </br> </br>
+![image](https://github.com/user-attachments/assets/13276b24-1c5e-4616-938b-795b76e5e705)
+ </br> </br>
 
 • <b>Daily Plan:</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/207e5ed0-38af-42bb-a940-352171c160a7) </br> </br>
+![image](https://github.com/user-attachments/assets/9c4e72cd-3d33-48ca-8557-0d5e4abcc6d2)
+ </br> </br>
 
 • <b>Dog Feeding:</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/ee71540a-46e8-4cf3-84d7-44968f82dc26) </br> </br>
+![image](https://github.com/user-attachments/assets/5cf5cd25-fcf7-4bb9-8851-bd36db4764ca)
+ </br> </br>
 
 • <b>Shoes Case:</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/3a95896c-fe3a-43e3-93b7-cea4e856449b) </br> </br>
+![image](https://github.com/user-attachments/assets/682f992c-4dbe-4dbc-b3d7-df515cb7c53e)
+ </br> </br>
 
-![image](https://github.com/user-attachments/assets/bdf0d2cb-7c81-464f-8d2e-7576fb521d94)  </br> </br>
+![image](https://github.com/user-attachments/assets/f4238011-3405-4d68-b4ca-c800028a9449)
+  </br> </br>
 
 • <b>W.M.:</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/3abde969-fa9a-4300-b302-83cca249571e) </br> </br>
+![image](https://github.com/user-attachments/assets/954f8429-a6d5-4e5a-b32d-843ba5a1216a)
+ </br> </br>
 
 • <b>Tempature:</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/34077f23-0408-412f-abfb-75a69d56fdc6)  </br> </br>
+![image](https://github.com/user-attachments/assets/17bfe2ea-6b88-48f6-b2ae-62d6f69e18c1)  </br> </br>
 
 • <b>Broom:</b> </br> </br>
 
-![image](https://github.com/user-attachments/assets/ec472570-0000-427c-a991-ff79a92f2bc0)
+![image](https://github.com/user-attachments/assets/6412f333-c71a-435d-a92a-41269c60dc0f)
+
 
 
 
